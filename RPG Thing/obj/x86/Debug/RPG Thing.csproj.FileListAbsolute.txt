@@ -1,0 +1,71 @@
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\playerSpritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\RPG Thing.exe
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\RPG Thing.pdb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\MonoGame.Framework.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.XAudio2.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.Direct3D11.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.DXGI.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.Direct2D1.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.XInput.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.RawInput.dll
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\MonoGame.Framework.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.XAudio2.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.Direct3D11.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.DXGI.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.Direct2D1.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.XInput.xml
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\SharpDX.RawInput.xml
+E:\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.csprojResolveAssemblyReference.cache
+E:\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.exe
+E:\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.pdb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\font.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\demonSpritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\grassDark.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\grassLight.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\skeletonSpritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\grassLime.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomLeftGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomMidGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomRightGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\midLeftGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\midRightGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topLeftGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topMidGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topRightGrass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomBottomLeftTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomBottomRightTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomLeftSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomMidSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomRightSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomTopLeftTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\bottomTopRightTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\midLeftSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\midRightSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\sand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topBottomLeftTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topBottomRightTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topLeftSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topMidSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topRightSand.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topTopLeftTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\topTopRightTree.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\grass.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\Bullet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\swordSpritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\knight1Spritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\swordDown.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\swordLeft.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\swordRight.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\swordUp.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\spiderSpritesheet.xnb
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\RPG Thing.exe.manifest
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\RPG Thing.application
+E:\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.exe.manifest
+E:\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.application
+E:\RPG Thing\RPG Thing\bin\Windows\Debug\Content\map.txt
+C:\Users\Michael\Documents\Project Files\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.exe
+C:\Users\Michael\Documents\Project Files\RPG Thing\RPG Thing\obj\x86\Debug\RPG Thing.pdb
